@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5507391936435148158
+  m_GuidHigh: 7695265620695803264
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5714240321898842106
+      m_GuidHigh: 17842071090734158217
+    m_SerializedTextureGuid:
+      m_GuidLow: 5351669031728767817
+      m_GuidHigh: 7715501408838983434
+    m_Size: {x: 0.3, y: 0.18980892}
+    m_SpecifySize: 1
+    m_Name: card
+    m_Texture: {fileID: 2800000, guid: 47a6e349f2a14a440a9fdf21a7f7126b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5238243673765031941
+      m_GuidHigh: 3515744807889952919
+    m_SerializedTextureGuid:
+      m_GuidLow: 1829764733741899309
+      m_GuidHigh: 8117620666076358107
+    m_Size: {x: 0.3, y: 0.4}
+    m_SpecifySize: 1
+    m_Name: card-1
+    m_Texture: {fileID: 2800000, guid: b1391e2da1541964dbe5d99efc94a770, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5691121691951259381
+      m_GuidHigh: 11390389844763283593
+    m_SerializedTextureGuid:
+      m_GuidLow: 14984709676806069605
+      m_GuidHigh: 6592301629219672458
+    m_Size: {x: 0.3, y: 0.6341866}
+    m_SpecifySize: 1
+    m_Name: z3343400925011_4411cbbb8af6957db8c4d7fc577ef79d
+    m_Texture: {fileID: 2800000, guid: 04625d65620fcff48a11de7d678f7c5b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5154011119741544042
+      m_GuidHigh: 11222352692173289910
+    m_SerializedTextureGuid:
+      m_GuidLow: 1293939062354410175
+      m_GuidHigh: 8188823430640234251
+    m_Size: {x: 0.3, y: 0.6341866}
+    m_SpecifySize: 1
+    m_Name: z3343400948382_2cea987194cf98a58a1581ba9e83ce9e
+    m_Texture: {fileID: 2800000, guid: bca2fabffeb811f40befb41f868ba471, type: 3}
